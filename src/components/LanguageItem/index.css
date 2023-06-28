@@ -1,0 +1,16 @@
+.language-item {
+  margin-top: 10px;
+  margin-right: 20px;
+}
+.language-btn {
+  border-radius: 25px;
+  background: none;
+  border: 1px solid #db1c48;
+  padding: 10px;
+  color: #db1c48;
+  width: 80px;
+}
+.clicked-btn {
+  background-color: #db1c48;
+  color: #ffffff;
+}
